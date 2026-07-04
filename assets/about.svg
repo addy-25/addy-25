@@ -1,0 +1,104 @@
+<svg width="850" height="410" viewBox="0 0 850 410" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .t { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 15px; }
+    .cmd { fill: #e6edf3; }
+    .out { fill: #9da7b3; }
+    .p1 { fill: #3fb950; }
+    .p2 { fill: #8b949e; }
+    .hl-b { fill: #58a6ff; }
+    .hl-p { fill: #bc8cff; }
+    .hl-o { fill: #f78166; }
+    .ok { fill: #3fb950; font-weight: bold; }
+    .title { fill: #8b949e; font-size: 13px; }
+    .line { opacity: 0; animation: fadeUp 0.45s ease forwards; }
+    .d1  { animation-delay: 0.2s; }
+    .d2  { animation-delay: 0.55s; }
+    .d3  { animation-delay: 1.0s; }
+    .d4  { animation-delay: 1.35s; }
+    .d5  { animation-delay: 1.8s; }
+    .d6  { animation-delay: 2.15s; }
+    .d7  { animation-delay: 2.6s; }
+    .d8  { animation-delay: 2.95s; }
+    .d9  { animation-delay: 3.4s; }
+    .d10 { animation-delay: 3.75s; }
+    .d11 { animation-delay: 4.2s; }
+    .d12 { animation-delay: 4.55s; }
+    .d13 { animation-delay: 5.0s; }
+    .cursor { opacity: 0; animation: fadeUp 0.3s ease 5.2s forwards, blink 1.1s steps(1) 5.5s infinite; }
+    .glow1 { animation: pulse 5s ease-in-out infinite; }
+    .glow2 { animation: pulse 6s ease-in-out 1.5s infinite; }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: 0.30; } 50% { opacity: 0.60; } }
+  </style>
+
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="850" y2="410" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#10131c"/>
+      <stop offset="1" stop-color="#141a26"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="850" y2="410" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#bc8cff"/>
+      <stop offset="1" stop-color="#f78166"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#bc8cff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#bc8cff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur40" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="848" height="408" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- card -->
+  <rect x="1" y="1" width="848" height="408" rx="16" fill="url(#cardBg)"/>
+
+  <!-- animated background glow blobs -->
+  <g clip-path="url(#cardClip)">
+    <circle class="glow1" cx="730" cy="60" r="150" fill="url(#glowBlue)" filter="url(#blur40)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -25 20; 0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="glow2" cx="110" cy="360" r="160" fill="url(#glowPurple)" filter="url(#blur40)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 30 -18; 0 0" dur="11s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- gradient border -->
+  <rect x="1" y="1" width="848" height="408" rx="16" fill="none" stroke="url(#borderGrad)" stroke-opacity="0.55" stroke-width="1.5"/>
+
+  <!-- window chrome -->
+  <circle cx="30" cy="30" r="6.5" fill="#ff5f57"/>
+  <circle cx="52" cy="30" r="6.5" fill="#febc2e"/>
+  <circle cx="74" cy="30" r="6.5" fill="#28c840"/>
+  <text x="425" y="35" text-anchor="middle" class="t title">aditya · about.sh</text>
+  <line x1="1" y1="52" x2="849" y2="52" stroke="#21262d" stroke-width="1"/>
+
+  <!-- terminal body -->
+  <text x="36" y="92" class="t line d1"><tspan class="p1">aditya@backend</tspan><tspan class="p2">:~$ </tspan><tspan class="cmd">whoami</tspan></text>
+  <text x="36" y="114" class="t line d2 out">Backend · AI Systems Engineer — B.Tech CSE, VIT Bhopal (2022–26)</text>
+
+  <text x="36" y="150" class="t line d3"><tspan class="p1">aditya@backend</tspan><tspan class="p2">:~$ </tspan><tspan class="cmd">cat research.log</tspan></text>
+  <text x="36" y="172" class="t line d4 out">IIT Ropar · formal verification of Mosquitto MQTT <tspan class="hl-b">(Spin / Promela)</tspan></text>
+
+  <text x="36" y="208" class="t line d5"><tspan class="p1">aditya@backend</tspan><tspan class="p2">:~$ </tspan><tspan class="cmd">gravitas --status</tspan></text>
+  <text x="36" y="230" class="t line d6 out">LLM agent backend · multi-step tool-use loop · <tspan class="hl-p">7-tool MCP server</tspan></text>
+
+  <text x="36" y="266" class="t line d7"><tspan class="p1">aditya@backend</tspan><tspan class="p2">:~$ </tspan><tspan class="cmd">quantflow --bench</tspan></text>
+  <text x="36" y="288" class="t line d8 out">Go matching engine · <tspan class="hl-o">500K+ orders/sec</tspan> · Kafka · gRPC · K8s</text>
+
+  <text x="36" y="324" class="t line d9"><tspan class="p1">aditya@backend</tspan><tspan class="p2">:~$ </tspan><tspan class="cmd">pytest --cov</tspan></text>
+  <text x="36" y="346" class="t line d10 out"><tspan class="hl-o">90%+ coverage</tspan> · CI/CD · Prometheus · Grafana · Jaeger</text>
+
+  <text x="36" y="382" class="t line d11"><tspan class="p1">aditya@backend</tspan><tspan class="p2">:~$ </tspan><tspan class="cmd">echo $STATUS</tspan></text>
+  <text x="430" y="382" class="t line d12 ok">→ OPEN TO WORK · SDE-1 / AI-GenAI Engineer</text>
+  <rect x="812" y="369" width="9" height="17" class="cursor" fill="#58a6ff"/>
+</svg>
