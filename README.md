@@ -1,7 +1,7 @@
 <!-- ═════════════════ ANIMATED HEADER ═════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,45:58a6ff,100:bc8cff&text=ADITYA%20SINGH&fontSize=68&fontColor=e6edf3&animation=twinkling&desc=Backend%20%26%20AI%20Systems%20Engineer&descSize=24&descAlignY=78&stroke=58a6ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,45:58a6ff,100:bc8cff&text=ADITYA%20SINGH&fontSize=68&fontColor=e6edf3&animation=twinkling&desc=Backend%20%C2%B7%20AI%20Systems%20Engineer&descSize=24&descAlignY=78&stroke=58a6ff&strokeWidth=1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=820&height=64&lines=Agentic+LLM+backends+%7C+MCP+servers+%7C+Claude+API;Go+engine+%40+500K%2B+orders%2Fsec+%7C+Kafka+%7C+gRPC+%7C+K8s;Formal+verification+%40+IIT+Ropar+(Spin%2FPromela);OPEN+TO+WORK+%3A+SDE-1+%2F+AI-GenAI+Engineer" alt="typing intro" />
 
@@ -9,11 +9,27 @@
 
 <a href="mailto:adtya25069@gmail.com"><img src="https://img.shields.io/badge/EMAIL-adtya25069@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22&color=58a6ff" /></a>
 <a href="https://www.linkedin.com/in/adityasingh25063/"><img src="https://img.shields.io/badge/LINKEDIN-adityasingh25063-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22&color=bc8cff" /></a>
-<a href="mailto:adtya25069@gmail.com"><img src="https://img.shields.io/badge/🎯_HIRING?-LET'S_TALK-0d1117?style=for-the-badge&labelColor=161b22&color=f78166" /></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-2ea043?style=for-the-badge&labelColor=161b22" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58a6ff,50:bc8cff,100:f78166" width="100%"/>
 
 </div>
+
+<!-- ═════════════════ ABOUT ═════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> About
+
+**Backend & AI Systems Engineer** · B.Tech CSE @ VIT Bhopal (2022–26). I build agentic LLM backends and high-throughput distributed systems — and ship them end-to-end: **schema → API → agent loop → tests → CI/CD → deploy**.
+
+```json
+{
+  "research": "IIT Ropar · formal verification of MQTT broker (Spin / Promela)",
+  "building": "Gravitas · LLM agent backend · custom 7-tool MCP server",
+  "shipped":  "Go matching engine · 500K+ orders/sec · Kafka · gRPC · K8s",
+  "quality":  "90%+ pytest coverage · CI/CD · Prometheus · Grafana · Jaeger",
+  "status":   "OPEN TO WORK · SDE-1 / AI-GenAI Engineer"
+}
+```
 
 <!-- ═════════════════ 3D CONTRIBUTION GRAPH ═════════════════ -->
 
@@ -28,55 +44,28 @@
 
 </div>
 
-<!-- ═════════════════ ABOUT ═════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About
-
-```yaml
-role: Backend & AI Systems Engineer
-education: B.Tech CSE @ VIT Bhopal (2022–2026)
-research: IIT Ropar — formal verification of Mosquitto MQTT broker (Spin / Promela)
-focus:
-  - Agentic LLM backends — plan → tool-call → act loops on the Claude API
-  - MCP servers for natural-language control of real systems
-  - High-throughput distributed systems in Go — gRPC, Kafka, Kubernetes
-ships: schema → API → agent loop → tests → CI/CD → deploy
-status: OPEN TO WORK — SDE-1 / AI-GenAI Engineer
-```
-
-- 🔭 Building **Gravitas** — an LLM agent backend where Claude **plans, calls tools, and acts** through a multi-step tool-use loop, exposed via a custom **7-tool MCP server** controllable from Claude Desktop & Claude Code
-- 🔬 **Research Intern @ IIT Ropar** — modeled the Mosquitto MQTT broker in **Promela**, verified message-delivery + deadlock-freedom with the **Spin model checker**; shipped a FastAPI + PostgreSQL research-publications platform
-- ⚡ Engineered a **Go matching engine — 500K+ orders/sec** over gRPC + Protobuf on a Kafka event-driven backbone
-- 🧪 **90%+ pytest coverage** · GitHub Actions CI/CD · Prometheus · Grafana · Jaeger (OpenTelemetry)
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58a6ff,50:bc8cff,100:f78166" width="100%"/></div>
 
 <!-- ═════════════════ TECH STACK ═════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Tech Arsenal
 
 <div align="center">
 
-### Languages & Backend
+**Languages & Backend**
+
 <img src="https://skillicons.dev/icons?i=py,go,ts,js,fastapi,postgres,redis,kafka,elasticsearch&perline=9" />
 
-### Infra · DevOps · Observability
+**Infra · DevOps · Observability**
+
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus,githubactions,git,github,linux&perline=9" />
 
-### AI Systems
+**AI Systems**
+
 <img src="https://img.shields.io/badge/Claude_API-0d1117?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=161b22" />
 <img src="https://img.shields.io/badge/MCP_·_Model_Context_Protocol-0d1117?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=161b22" />
 <img src="https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=white&labelColor=161b22" />
 <img src="https://img.shields.io/badge/LLM_Agents_·_Tool_Use-0d1117?style=for-the-badge&logo=robotframework&logoColor=00C0B5&labelColor=161b22" />
-
-### Protocols · Auth · Testing
-<img src="https://img.shields.io/badge/gRPC-0d1117?style=flat-square&logo=grpc&logoColor=58a6ff&labelColor=161b22" />
-<img src="https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=socketdotio&logoColor=58a6ff&labelColor=161b22" />
-<img src="https://img.shields.io/badge/OAuth_2.0-0d1117?style=flat-square&logo=auth0&logoColor=58a6ff&labelColor=161b22" />
-<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff&labelColor=161b22" />
-<img src="https://img.shields.io/badge/MQTT_·_Mosquitto-0d1117?style=flat-square&logo=eclipsemosquitto&logoColor=58a6ff&labelColor=161b22" />
-<img src="https://img.shields.io/badge/pytest-0d1117?style=flat-square&logo=pytest&logoColor=58a6ff&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=58a6ff&labelColor=161b22" />
 
 </div>
 
@@ -84,57 +73,41 @@ status: OPEN TO WORK — SDE-1 / AI-GenAI Engineer
 
 <!-- ═════════════════ PROJECTS ═════════════════ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Flagship Builds
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Flagship Builds
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧠 [Gravitas](https://github.com/addy-25/Gravitas) — LLM Agent Backend Platform
 
-### 🧠 [Gravitas](https://github.com/addy-25/Gravitas)
-**LLM Agent Backend Platform**
+*Claude plans, calls tools, and acts on results — a real multi-step agentic loop, not prompt-response.*
 
-`Python` `FastAPI` `PostgreSQL` `Redis` `Claude API` `MCP`
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=FF4438" /> <img src="https://img.shields.io/badge/Claude_API-0d1117?style=flat-square&logo=claude&logoColor=D97757" /> <img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic&logoColor=white" />
 
-Claude doesn't just answer — it **plans, calls tools, and acts on results** through a multi-step agentic loop.
+**7-tool MCP server** — natural-language control from Claude Desktop & Code · GitHub OAuth 2.0 + **HMAC-SHA256** webhooks · **90%+ pytest coverage** · CI/CD
 
-- 🔧 Custom **7-tool MCP server** → natural-language control from Claude Desktop/Code
-- 🔐 GitHub OAuth 2.0 + **HMAC-SHA256** signed webhooks
-- ✅ Async stack · Alembic · JWT · **90%+ pytest coverage** · CI/CD
+<br/>
 
-</td>
-<td width="50%" valign="top">
+### ⚡ [QuantFlow](https://github.com/addy-25/QuantHFT) — AI-Controlled Trading Platform
 
-### ⚡ [QuantFlow](https://github.com/addy-25/QuantHFT)
-**AI-Controlled Trading Platform**
+*An MCP server exposing trading functions as AI-callable tools — Claude executes real trades end-to-end.*
 
-`Go` `Kafka` `gRPC` `Docker` `Kubernetes` `MCP`
+<img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8" /> <img src="https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/gRPC-0d1117?style=flat-square&logo=grpc&logoColor=00B0FF" /> <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5" />
 
-MCP server exposing trading functions as AI-callable tools — **Claude executes real trades end-to-end** via natural language.
+**500K+ orders/sec** Go matching engine over gRPC + Protobuf · **Kafka** across 3 topics · **7 services** on K3s · Prometheus · Grafana · Jaeger
 
-- 🚀 Go matching engine: **500K+ orders/sec** over gRPC + Protobuf
-- 📡 **Kafka** event architecture across 3 topics feeding the agent live data
-- 📊 7 services on K8s · Prometheus · Grafana · Jaeger (OTel)
+<br/>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+### 📊 [FeedFlow](https://github.com/addy-25/FeedFlow) — LLM Content-Scoring Pipeline
 
-### 📰 [FeedFlow](https://github.com/addy-25/FeedFlow) — LLM Content-Scoring Pipeline
+*Claude scores incoming content 0–100 against each user's stored preferences — fully async, rationale persisted.*
 
-`Python` `FastAPI` `Celery` `Claude API` `PostgreSQL` `React Native`
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/Celery-0d1117?style=flat-square&logo=celery&logoColor=37814A" /> <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=FF4438" /> <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
 
-Claude scores incoming content **0–100 against each user's stored preferences**, rationale persisted to PostgreSQL. Runs as an **async Celery + Redis pipeline** decoupled from the request path — API stays fast under load. Per-user scheduled jobs via **Celery Beat** (15 min → daily) · shipped with a **React Native (Expo)** client.
-
-</td>
-</tr>
-</table>
+**Celery + Redis** pipeline off the request path — API stays fast under load · **Celery Beat** schedules (15 min → daily) · **React Native (Expo)** client
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:58a6ff,50:bc8cff,100:f78166" width="100%"/></div>
 
 <!-- ═════════════════ SNAKE ═════════════════ -->
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> Contribution Graph — Consumed
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32"> Contribution Graph — Consumed
 
 <div align="center">
 
@@ -147,7 +120,7 @@ Claude scores incoming content **0–100 against each user's stored preferences*
 
 <!-- ═════════════════ STATS ═════════════════ -->
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Stats & Activity
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="32"> Stats & Activity
 
 <div align="center">
 
