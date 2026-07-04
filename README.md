@@ -19,17 +19,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> About
 
-**Backend & AI Systems Engineer** · B.Tech CSE @ VIT Bhopal (2022–26). I build agentic LLM backends and high-throughput distributed systems — and ship them end-to-end: **schema → API → agent loop → tests → CI/CD → deploy**.
+<div align="center">
 
-```json
-{
-  "research": "IIT Ropar · formal verification of MQTT broker (Spin / Promela)",
-  "building": "Gravitas · LLM agent backend · custom 7-tool MCP server",
-  "shipped":  "Go matching engine · 500K+ orders/sec · Kafka · gRPC · K8s",
-  "quality":  "90%+ pytest coverage · CI/CD · Prometheus · Grafana · Jaeger",
-  "status":   "OPEN TO WORK · SDE-1 / AI-GenAI Engineer"
-}
-```
+<img src="./assets/about.svg" width="100%" alt="About Aditya — animated terminal card" />
+
+</div>
 
 <!-- ═════════════════ 3D CONTRIBUTION GRAPH ═════════════════ -->
 
