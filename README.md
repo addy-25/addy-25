@@ -1,18 +1,101 @@
-# 💫 About Me:
-Final-year CS student at VIT Bhopal. I build backend systems — REST APIs, agentic AI pipelines, and the occasional MCP server that lets Claude control an entire app through natural language.<br>Right now I'm wrapping up Gravitas, a task manager where an AI agent reads your inbox and plans your day without you lifting a finger. Before that I was a research intern at IIT Ropar building a BibTeX parser and modelling MQTT protocol behaviour with formal verification tools.<br>My stack is mostly Python, FastAPI, PostgreSQL, and Redis — with Docker and GitHub Actions to ship it. On the AI side I've been deep in the Anthropic Claude API, tool-use loops, and MCP.<br>I'm looking for SDE or AI-adjacent roles. If you're building something in that space, reach out.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:24283b&height=220&section=header&text=Aditya%20Singh&fontSize=58&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Systems%20Engineer&descAlignY=58&descSize=20&descColor=7dcfff" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adityasingh25063/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adtya25069@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7DCFFF&center=true&vCenter=true&width=680&lines=%24+whoami;Aditya+Singh+-+Backend+%26+Agentic+Systems+Builder;%24+status+--check;OPEN+TO+WORK%3A+SDE-1+%2F+AI-GenAI+Engineer;%24+stack+--top;FastAPI%2C+Go%2C+Claude+API%2C+MCP%2C+Kafka" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=plastic&logo=eclipsemosquitto&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=addy-25&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=addy-25&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=addy-25&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=addy-25&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Email](https://img.shields.io/badge/-adtya25069%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=7dcfff)](mailto:adtya25069@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-adityasingh25063-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7dcfff)](https://www.linkedin.com/in/adityasingh25063/)
+[![GitHub](https://img.shields.io/badge/-addy--25-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)](https://github.com/addy-25)
+[![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-ff9e64?style=for-the-badge&logoColor=1a1b27)](mailto:adtya25069@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+Final-year B.Tech CSE student at **VIT Bhopal** (2022–2026), building backend systems and agentic AI platforms end-to-end — schema to model tool-use loop.
+
+- 🔭 Currently building **Gravitas**, an LLM agent backend where Claude plans, calls tools, and acts through a custom multi-step tool-use loop, exposed over a 7-tool MCP server with GitHub OAuth 2.0
+- 🔬 Previously a **Research Intern at IIT Ropar** — formally verified the Mosquitto MQTT broker's message-delivery and deadlock-freedom guarantees in Promela using the Spin model checker, and shipped a FastAPI + PostgreSQL + React platform for organizing faculty research publications
+- ⚙️ Comfortable across the stack: async Python/FastAPI backends, Go for performance-critical systems, and Claude/MCP for agentic tool-use
+- 🎯 **Actively looking for SDE-1 and AI/GenAI Engineer roles** — reach out via email or LinkedIn above
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages & Core**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,go,js,ts,fastapi,postgres,redis,kafka,elasticsearch,docker,kubernetes,grafana,prometheus,githubactions,git,github&perline=8" />
+</div>
+
+**AI Systems & Protocols**
+
+![Claude API](https://img.shields.io/badge/Claude_API-1a1b27?style=flat-square&logo=claude&logoColor=bb9af7)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-1a1b27?style=flat-square&logo=openai&logoColor=bb9af7)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-1a1b27?style=flat-square&logoColor=bb9af7)
+![JWT](https://img.shields.io/badge/JWT-1a1b27?style=flat-square&logo=jsonwebtokens&logoColor=bb9af7)
+![gRPC](https://img.shields.io/badge/gRPC-1a1b27?style=flat-square&logo=grpc&logoColor=bb9af7)
+![Mosquitto MQTT](https://img.shields.io/badge/Mosquitto_MQTT-1a1b27?style=flat-square&logo=eclipsemosquitto&logoColor=bb9af7)
+
+**Testing**
+
+![pytest](https://img.shields.io/badge/pytest-1a1b27?style=flat-square&logo=pytest&logoColor=7dcfff)
+![Playwright](https://img.shields.io/badge/Playwright-1a1b27?style=flat-square&logo=playwright&logoColor=7dcfff)
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/addy-25/Gravitas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=addy-25&repo=Gravitas&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/addy-25/QuantHFT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=addy-25&repo=QuantHFT&theme=tokyonight&hide_border=true" /></a>
+
+<a href="https://github.com/addy-25/FeedFlow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=addy-25&repo=FeedFlow&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+**[Gravitas](https://github.com/addy-25/Gravitas)** — LLM agent backend. Claude plans, calls tools, and acts through a multi-step tool-use loop, exposed via a custom 7-tool MCP server with GitHub OAuth 2.0 + HMAC-signed webhooks. Async FastAPI/PostgreSQL/Redis/JWT, 90%+ pytest coverage, GitHub Actions CI/CD.
+
+**[QuantHFT](https://github.com/addy-25/QuantHFT)** — Backend trading platform with an MCP server that lets Claude execute trades via natural language. Go matching engine handling 500K+ orders/sec over gRPC + Protobuf, Kafka event pipeline across 3 topics, 7 services on Docker/Kubernetes with Prometheus + Grafana + Jaeger observability.
+
+**[FeedFlow](https://github.com/addy-25/FeedFlow)** — FastAPI backend using the Claude API to score incoming content against per-user preferences, running as an async Celery + Redis pipeline so the API stays responsive under load. Scheduled scoring jobs via Celery Beat, shipped with a React Native (Expo) client.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=addy-25&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy-25&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=addy-25&theme=tokyonight&hide_border=true" width="60%" />
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=addy-25&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=addy-25&color=7dcfff&style=flat-square&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,100:1a1b27&height=100&section=footer" width="100%"/>
+
+</div>
